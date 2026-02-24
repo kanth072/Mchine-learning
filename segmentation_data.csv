@@ -1,0 +1,39 @@
+Dataset Shape: (500, 9)
+  CustomerID  Tenure  MonthlyCharges  TotalCharges        Contract  \
+0     C00001       6              64          1540        One year   
+1     C00002      21             113          1753  Month-to-month   
+2     C00003      27              31          1455        Two year   
+3     C00004      53              29          7150  Month-to-month   
+4     C00005      16             185          1023        One year   
+
+      PaymentMethod PaperlessBilling  SeniorCitizen  Churn  
+0       Credit Card               No              1      0  
+1  Electronic Check              Yes              1      0  
+2       Credit Card               No              1      0  
+3  Electronic Check               No              1      0  
+4  Electronic Check               No              1      0  
+KMeans Silhouette Score: 0.09836194468655049
+Hierarchical Silhouette Score: 0.08033646079672398
+
+CUSTOMER SEGMENTS:
+Segment 1: 47.0%
+Segment 2: 29.2%
+Segment 0: 23.8%
+
+============================
+Training Model for Segment 1
+============================
+Not enough class variation in this segment
+
+============================
+Training Model for Segment 2
+============================
+Not enough class variation in this segment
+
+============================
+Training Model for Segment 0
+============================
+Not enough class variation in this segment
+
+MODEL PERFORMANCE SUMMARY:
+Colab
