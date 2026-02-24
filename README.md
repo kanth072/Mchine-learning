@@ -1,4 +1,4 @@
-📊 Customer Segmentation & Churn Prediction System
+**📊 Customer Segmentation & Churn Prediction System**
 🚀 Project Overview
 
 This project implements an advanced Customer Segmentation and Churn Prediction System using machine learning techniques.
